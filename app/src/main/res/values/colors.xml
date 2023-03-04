@@ -10,7 +10,8 @@
 
     //Colours
     <color name="colorPrimary">#7A6B30</color>
-    <color name="colorPrimaryDark">#975C29</color>
+    <color name="colorPrimaryDark">#A38A6C</color>
     <color name="colorAccent">#9E8043</color>
     <color name="colorWhite">#FFFFFF</color>
+    <color name="accent">#603A2B</color>
 </resources>
